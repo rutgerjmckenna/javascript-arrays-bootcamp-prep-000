@@ -18,7 +18,7 @@ function accessElementInArray (array, index) {
   return array[index]
 }
 function destructivelyRemoveElementFromBeginningOfArray (array, index) {
-  
+  return array.shift()
 }
 //   var moreNumbers = [1, 2, 3]
 //   return moreNumbers.shift()
