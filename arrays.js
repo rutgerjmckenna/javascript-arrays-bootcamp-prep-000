@@ -25,3 +25,4 @@ function removeElementFromBeginningOfArray(array, index) {
   array.slice(1)
   return array
 }
+destructivelyRemoveElementFromEndOfArray ()
