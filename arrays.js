@@ -17,8 +17,9 @@ function destructivelyAddElementToEndOfArray(array, string) {
 function accessElementInArray (array, index) {
   return array[index]
 }
-//   return array[index]
-// function destructivelyRemoveElementFromBeginningOfArray() {
+function destructivelyRemoveElementFromBeginningOfArray (array, index) {
+  
+}
 //   var moreNumbers = [1, 2, 3]
 //   return moreNumbers.shift()
 // }
