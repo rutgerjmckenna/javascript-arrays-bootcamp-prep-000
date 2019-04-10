@@ -14,7 +14,9 @@ function destructivelyAddElementToEndOfArray(array, string) {
   array.push(string)
   return array
 }
-// function accessElementInArray(array, index) {
+function accessElementInArray (array, index) {
+  return array[index]
+}
 //   return array[index]
 // function destructivelyRemoveElementFromBeginningOfArray() {
 //   var moreNumbers = [1, 2, 3]
