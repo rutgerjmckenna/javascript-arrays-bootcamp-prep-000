@@ -14,10 +14,6 @@ function destructivelyAddElementToEndOfArray(array, string) {
   array.push(string)
   return array
 }
-//   var destructiveArray = [1]
-//   destructiveArray.push("foo")
-//   return destructiveArray
-// }
 // function accessElementInArray(array, index) {
 //   return array[index]
 // function destructivelyRemoveElementFromBeginningOfArray() {
